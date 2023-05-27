@@ -9,12 +9,12 @@ Matplotlib
 OpenCV (cv2)
 ## Installation
 ### 1. Clone the repository:
-bash
-Copy code
+
+
 git clone https://github.com/your_username/handwritten-digit-recognition.git
 ### 2. Install the required dependencies:
-bash
-Copy code
+
+
 pip install tensorflow numpy matplotlib opencv-python
 ### 3. Download the MNIST dataset:
 The dataset is automatically downloaded when running the script for the first time.
